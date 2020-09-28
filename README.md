@@ -1,6 +1,7 @@
 # load_distributor
 
 ### To run load distributor
+    go mod download
     go build .
     ./load_distributor
 
